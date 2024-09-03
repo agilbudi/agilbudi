@@ -1,5 +1,5 @@
 
-<div id="header" style="text-align:center">
+<div id="header" align="center">
     <img src="https://raw.githubusercontent.com/agilbudi/agilbudi/main/res/logo.gif" width="100"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/agilbudiprasetyo/">
