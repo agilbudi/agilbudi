@@ -6,7 +6,7 @@
             <img src="https://img.shields.io/badge/agil_budi_prasetyo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=agilbudiprasetyo@gmail.com">
-            <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
     </div>
 </div>
@@ -17,8 +17,8 @@ I have spent the last four years studying <img src="https://media.giphy.com/medi
 
 My core focus is on creating simple, usable products that allow users to easily interact with their environment and make decisions based on real-time data.
 
-[![Top Langs][top-lang]](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak][Streak]](https://git.io/streak-stats)
+[![Top Langs][top-lang]](https://github.com/agilbudi?tab=repositories)
+[![GitHub Streak][Streak]](https://github.com/agilbudi)
 
 
 
@@ -29,7 +29,7 @@ My core focus is on creating simple, usable products that allow users to easily 
 [logo]: https://raw.githubusercontent.com/agilbudi/agilbudi/main/res/logo.gif
 [Mbah-Nun]: https://id.wikipedia.org/wiki/Emha_Ainun_Nadjib
 [email]: https://mail.google.com/mail/?view=cm&fs=1&to=agilbudiprasetyo@gmail.com
-[Streak]: https://github-readme-streak-stats.herokuapp.com?user=agilbudi&theme=ads-juicy-fresh&locale=id
+[Streak]: https://github-readme-streak-stats.herokuapp.com?user=agilbudi&theme=ads-juicy-fresh&mode=weekly
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=agilbudi&layout=compact&theme=holi&card_width=700
 [NewsApp-card]: https://github-readme-stats.vercel.app/api/pin/?username=agilbudi&repo=VIX-Schoters-Agil&theme=buefy
 
